@@ -36,7 +36,7 @@ Key test cases(total 25) are written for each module and test suites created inc
   
   
 ## Screenshot  
-### This is the screenshot of mochawesome.html report:
+### Screenshot of html generated mochawesome report:
 
 
 ![Screenshot 1](https://user-images.githubusercontent.com/28690228/229625117-a3725792-4c43-4265-906e-35967875262e.png)
